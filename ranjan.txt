@@ -2,7 +2,13 @@ ranjan kumar nayak
 sashikanta nayak 
 arati nayak
 
+<<<<<<< HEAD
 something
 
 
+=======
+
+rakes das
+rahul kumar
+>>>>>>> kunu
 
